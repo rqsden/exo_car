@@ -1,2 +1,2 @@
 # exo_car
-rendu
+rendu du template de base
